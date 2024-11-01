@@ -9,9 +9,9 @@ Sou aluno do 2º ano do ensino médio e apaixonado por empreendedorismo e admini
 Meu objetivo é compartilhar conhecimentos e experiências sobre gestão, negócios e inovação. Espero inspirar outros jovens a se interessarem pelo mundo do empreendedorismo!
 
 ## Projetos
-- **[Nome do Projeto 1]**: Descrição do projeto 1.
-- **[Nome do Projeto 2]**: Descrição do projeto 2.
-- **[Nome do Projeto 3]**: Descrição do projeto 3.
+- **[Nome do Projeto 1]**: Campo de organização empreende dor
+- **[Nome do Projeto 2]**: contas e projrtos empreendedores dos alunos
+- **[Nome do Projeto 3]**: torneio empreendedor 
 
 ## Redes Sociais
 Você pode me seguir e acompanhar meu trabalho nas redes sociais:
