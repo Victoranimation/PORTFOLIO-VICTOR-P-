@@ -27,4 +27,4 @@ Agradeço qualquer feedback ou contribuição! Juntos, podemos aprender mais e c
 
 ---
 
-Obrigado por visitar meu perfil! Vamos empreender juntos!
+Obrigado por visitar meu perfil! Vamos empreender juntos! ´
